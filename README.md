@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [real world project](on going)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Software Development**
 
 - 📫 How to reach me **018maruf@gmail.com**
 
