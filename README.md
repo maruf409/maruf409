@@ -69,9 +69,7 @@
     <img width="12">
     <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo">
 </div>
-###
 <h4 align="left">Reach me through</h4>
-###
 <div align="left">
     <div align="left">
         <img
@@ -80,9 +78,7 @@
             height="30"
             alt="gmail logo"
         >
-        <h3>
-            018maruf@gmail.com
-        </h3>
+        <span>018maruf@gmail.com</span>        
     </div>
     <img
         src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg"
