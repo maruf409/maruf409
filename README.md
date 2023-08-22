@@ -78,7 +78,7 @@
             height="40"
             alt="gmail logo"
         >
-        <span><h1>018maruf@gmail.com</h1></span>        
+        <span><h3>018maruf@gmail.com</h3></span>        
     </div>
     <img
         src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg"
