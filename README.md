@@ -75,7 +75,7 @@
         <img
             src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
             width="52"
-            height="30"
+            height="20"
             alt="gmail logo"
         >
         <span><strong>018maruf@gmail.com</strong></span>        
