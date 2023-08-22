@@ -71,15 +71,15 @@
 </div>
 <h4 align="left">Reach me through</h4>
 <div align="left">
-    <div align="left">
-        <img
+    <p align = "left">         <img
             src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
             width="22"
             height="20"
             alt="gmail logo"
         >
-        <span><strong>018maruf@gmail.com</strong></span>        
-    </div>
+        <span><strong>018maruf@gmail.com</strong></span>    
+    </p>
+
     <img
         src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg"
         width="52"
