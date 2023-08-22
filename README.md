@@ -75,10 +75,10 @@
         <img
             src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
             width="52"
-            height="40"
+            height="30"
             alt="gmail logo"
         >
-        <span>018maruf@gmail.com</span>        
+        <span><strong>018maruf@gmail.com</strong></span>        
     </div>
     <img
         src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg"
